@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 79d4268a3be2a174cbfeb05ba07522e5
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 4087990622189430601
+    second: Armature|AbeC
+  - first:
+      74: -8351896292063939690
+    second: Armature|AbeCG
+  - first:
+      74: 3759056916090386859
+    second: Armature|AbeCL
+  - first:
+      74: 4524587084123196342
+    second: Armature|AbeJ
+  - first:
+      74: -8752026726503870784
+    second: Armature|AbeR
+  - first:
+      74: -402788142030423244
+    second: Armature|AbeS
+  - first:
+      74: -6798610273857861155
+    second: Armature|AbeS-J
+  - first:
+      74: -801889172034395134
+    second: Armature|AbeS-R
+  - first:
+      74: -1994315074876303028
+    second: Armature|AbeSG
+  - first:
+      74: 8523146985079412855
+    second: Armature|AbeSI
+  - first:
+      74: -8578847795329918576
+    second: Armature|AbeSM
+  - first:
+      74: -6147823521700518181
+    second: Armature|AbeWB
+  - first:
+      74: -751813995980742648
+    second: Armature|EmptyAction
+  - first:
+      74: 6701130244743415289
+    second: Armature|MaleStance
+  - first:
+      74: -2382795055912782974
+    second: Armature|Plane.001Action
+  - first:
+      74: -6586251682136291700
+    second: Armature|T-PoseArmature
+  - first:
+      74: 6848473710069644000
+    second: Skel:Reference|EmptyAction
+  - first:
+      74: -5298707661677785541
+    second: Skel:Reference|MyTestB
+  - first:
+      74: 7443341402574240103
+    second: Skel:Reference|Plane.001Action
+  - first:
+      74: -2180403208240915236
+    second: Skel:Reference|T-Pose
+  - first:
+      74: -5572541973309549404
+    second: Empty|EmptyAction
+  - first:
+      74: -8654746071659814298
+    second: Empty|Plane.001Action
+  - first:
+      74: 3672153111412007068
+    second: Plane.001|EmptyAction
+  - first:
+      74: -2858551162337178960
+    second: Plane.001|Plane.001Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
